@@ -1,1 +1,1 @@
-console.log('I am in the second branch');
+console.log('I am in the master branch');
